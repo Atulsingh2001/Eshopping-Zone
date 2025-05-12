@@ -1,0 +1,21 @@
+/* Header Content */
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-content nav {
+  display: flex;
+  gap: 20px;
+}
+
+.header-content nav a {
+  color: #4b5563;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.header-content nav a:hover {
+  color: #3b82f6;
+}
